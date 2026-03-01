@@ -1,3 +1,5 @@
+import 'dart:math';
+
 void main() {
   //switch is used to select one of many code blocks to be executed
   //switch is an alternative to if-else when you have many conditions based on the same variable
@@ -7,7 +9,7 @@ void main() {
     case 'Mohammad':
       print('2');
       break;
-    case 'Fady':
+    case 'Fady2':
       print('3');
       break;
     case 'Ali':
@@ -17,4 +19,5 @@ void main() {
       print('Not Valid');
       break;
   }
+
 }

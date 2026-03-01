@@ -8,8 +8,18 @@ void main() {
   // Single quotes ' '
   // Double quotes " "
   // Triple quotes ''' ''' or """ """ for multi-line strings
-  print('''Hello "World"  ''');
-  print("""Hello 'World'""");
+  print('''Hello
+  ddjkjk
+  kjdkjdk
+  'kdjkdjk'
+  
+  
+   "World"  ''');
+  
+  print("""
+  Hello 
+  'World'
+  """);
 
   // Dart evaluates arithmetic expressions before printing.
   // Here, 3 + 5 is calculated first, then the result (8) is printed.

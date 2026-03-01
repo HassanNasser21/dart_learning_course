@@ -1,5 +1,5 @@
 void main() {
-  var x = 1;
+  var x = 0;
 
   // Multiple if-else (method 1)
   if (x > 0) {

@@ -1,7 +1,7 @@
 void main() {
   //conditional operator is a shorthand for if-else statement
   //condition ? true statement : false statement
-  var a = 2;
+  var a = 5;
   var b = 3;
   a < b ? print("$a is smaller") : print("$b is smaller");
 
