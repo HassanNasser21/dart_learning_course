@@ -6,6 +6,7 @@ void main() {
 
   print("Degree: $degree");
 
+
   String grade;
   if (degree >= 95 && degree <= 100) {
     grade = "+A";
